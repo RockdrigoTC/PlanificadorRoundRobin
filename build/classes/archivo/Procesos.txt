@@ -1,0 +1,5 @@
+Proceso 1 , 11 
+Proceso 2 , 6
+Proceso 3 , 20
+Proceso 4 , 16
+Proceso 5 , 8
